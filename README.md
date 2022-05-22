@@ -20,18 +20,22 @@ The main menu is  interactive. There are some sub menu like “Periodic Table, S
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png">
 </p>
-
 <br>Selecting “Periodic Table”<br> 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63312173/169696123-ab6d7f8d-a23d-4f64-b46d-90fa63ebd646.png">
 </p>
-<br>Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window. 
-![image](https://user-images.githubusercontent.com/63312173/169695223-3771a240-bc49-4010-88b7-2514ee6805a4.png)
-<br>This window is totally interactive. The numbers above are group numbers. 
+Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window.<br> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63312173/169696225-8abdeb87-8289-414f-badf-a835445a3c37.png">
+</p>
+This window is totally interactive. The numbers above are group numbers. 
 Every elements are in the BOX shape. If we click any one of them. That shows the details about that element. 
 There is a back option to go back to main menu and an exit option to exit the program. 
 If we click the coolored boxes :
-    ![image](https://user-images.githubusercontent.com/63312173/169695294-385653b2-9167-4d1f-b7e3-de0640d0212a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63312173/169696299-93ed67e3-6e5e-4e38-99c2-ee6c84a53658.png">
+</p>
+
 By clicking the elements : Example O : 
  
 
