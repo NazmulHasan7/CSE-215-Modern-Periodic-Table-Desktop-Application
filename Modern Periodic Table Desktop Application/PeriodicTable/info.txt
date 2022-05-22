@@ -1,0 +1,65 @@
+___________________INFORMATION____________________________
+
+The periodic table consists of 118 elements, with 94 of these naturally occurring on the 
+Earth and the rest being synthetic. Each element is contained in a small block. 
+Information in the block includes the name of the element, its chemical symbol, 
+atomic number and atomic mass. 
+--------------------------------------------------------------------------------------
+Atomic Number and Mass
+--------------------------------------------------------------------------------------
+As the table progresses from left to right, and top to bottom, the atomic number of the 
+elements increases. The atomic number is the count of the protons in the atomic nucleus. 
+The table also shows atomic mass, which is the total number of neutrons and protons in 
+the atom’s nucleus, averaged according to the relative abundance of the element’s isotopes.
+For elements with no stable isotope, the table gives in parenthesis the atomic mass of the
+isotope with the longest half-life; in other words, the most stable form of the element.
+--------------------------------------------------------------------------------------
+The Periods
+--------------------------------------------------------------------------------------
+The seven rows in the table represent periods. Each element in a single row has the same 
+number of electron shells that surround the atomic nucleus. The elements hydrogen and 
+helium have a single orbital shell; elements in the second row have two orbitals,and so on.
+In the seventh period, elements have a seventh orbital shell.
+--------------------------------------------------------------------------------------
+The Groups
+--------------------------------------------------------------------------------------
+The table's 18 columns, read vertically from top to bottom, represent groups. All elements
+in a group have the same number of electrons orbiting the nucleus in the outermost shell.
+The exceptions to this rule include hydrogen, helium and the "transitional elements," 
+which occupy groups three through 12. Elements in a group share important chemical 
+characteristics. Group 18, for example, includes the "inert" or "noble" gases. Group 17 
+includes the five halogens.
+-------------------------------------------------------------------------------------
+Lanthanides and Actinides
+-------------------------------------------------------------------------------------
+At the bottom of the periodic table are two additional rows of 14 elements each.The top row 
+shows the lanthinides, elements 58 through 71; these are also called rare earths. The bottom
+row is the actinides, which begin with element 90 and end at 103; note,however,that elements 
+beyond 103 exist and will continue to be added to the periodic table as scientists discover
+new ones.The first elements in these two series are contained in the main body of the periodic
+table: lanthanum (57) and actinium (89).
+--------------------------------------------------------------------------------------
+The Element Groups
+--------------------------------------------------------------------------------------
+There are nine basic groups of elements shown in the periodic table.They are the alkali metals,
+alkaline earth metals, transition metals, other metals, metalloids,non-metals, halogens, noble
+gases and rare earth elements.
+--------------------------------------------------------------------------------------
+List of Representative Elements in S Block
+--------------------------------------------------------------------------------------
+The S Block elements or the elements in columns 1A and 2A on the left of the periodic table 
+include Hydrogen (H), Lithium (Li), Sodium (Na), Potassium (K). Rubidium (Rb), Cesium (Cs), 
+Francium (Fr), Beryllium (Be), Magnesium (Mg), Calcium (Ca), Strontium (Sr), Barium (Ba) and 
+Radium (Ra).
+--------------------------------------------------------------------------------------
+List of Representative Elements in P Block
+--------------------------------------------------------------------------------------
+The P Block elements or the elements in columns 3A through 8A on the right of the periodic 
+table include Boron (B),Aluminum (Al),Gallium (Ga),Indium (In),Thallium (Tl),Carbon (C),
+Silicon (Si),Germanium (Ge),Tin(Sn),Lead (Pb),Ununquadium (Uuq),Nitrogen (N),Phosphorus (P),
+Arsenic (As),Antimony (Sb),Bismuth (Bi),Oxygen (O),Sulfur (S),Selenium (Se),Tellurium (Te),
+Polonium (Po),Fluoride (F),Chlorine (Cl),Bromine (Br),Iodine (I),Astatine (At),Helium (He),
+Neon (Ne), Argon (Ar), Krypton (Kr), Xenon (Xe) and Radon (Rn).
+--------------------------------------------------------------------------------------
+--ALL THESE INFORMATIONS ARE FROM RELAIBLE SOURCES-----
+

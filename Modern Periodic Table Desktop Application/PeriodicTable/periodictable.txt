@@ -1,0 +1,43 @@
+History of the periodic table of chemical elements ::
+-----------------------------------------------------
+
+In 1809 : 
+At least 47 elements were discovered, and scientists began to see patterns in the characteristics.
+
+In 1863 :
+English chemist John Newlands divided the then discovered 56 elements into 11 groups,
+based on characteristics.
+
+In 1869 :
+Russian chemist Dimitri Mendeleev started the development of the periodic table, 
+arranging chemical elements by atomic mass. He predicted the discovery of other elements, 
+and left spaces open in his periodic table for them.
+
+In 1894 :
+Sir William Ramsay and Lord Rayleigh discovered the noble gases, 
+which were added to the periodic table as group 0.
+
+In 1897 :
+English physicist J. J. Thomson first discovered electrons; small negatively charged particles in an atom.
+
+In 1900 :
+Bequerel discovered that electrons and beta particles as identified by the Curies are the same thing.
+
+In 1903 :
+Rutherford announced that radioactivity is caused by the breakdown of atoms.
+
+In 1911 :
+Rutherford and German physicist Hans Geiger discovered that electrons orbit the nucleus of an atom.
+
+In 1913 :
+Bohr discovered that electrons move around a nucleus in discrete energy called orbitals.
+
+In 1914 :
+Rutherford first identified protons in the atomic nucleus. 
+
+In 1932 :
+James Chadwick first discovered neutrons, and isotopes were identified. 
+This was the complete basis for the periodic table. 
+
+In 1945 :
+Glenn Seaborg identified lanthanides and actinides (atomic number >92), which are usually placed below the periodic table

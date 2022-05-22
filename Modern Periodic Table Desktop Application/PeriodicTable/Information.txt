@@ -1,0 +1,26 @@
+Atomic Number -------------- 8
+
+Name ------------------------ Oxygen
+
+Symbol ---------------------- O
+
+Electron  Configuration ------ [He] 2s2 2p4
+
+Origin of Name -------------- the Greek 'oxy' and 'genes' meaning acid-forming
+
+Group ----------------------- 16
+
+Block ------------------------ p
+
+Atomic Weight -------------- 15.999 Kelvin
+
+Melting Point --------------- 54.36 Kelvin
+
+Boiling Point ---------------- 90.2 g/cm^3
+
+
+Properties : Nonmetals have high ionization energies and electronegativities.Solid nonmetals are generally brittle
+ with little or no metallic luster. Most nonmetals have the ability to gain electrons easily.
+
+
+Behaviour :  Generally poor conductors of heat and electricity.  
