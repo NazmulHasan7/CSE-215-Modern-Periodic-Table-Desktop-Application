@@ -15,15 +15,14 @@ Modern Periodic Table with C programming is a console application written in Jav
  <p>
 
 # Quick Overview of Features
-Main menu : 
+    <b>Main menu :</b> 
 The main menu is  interactive. There are some sub menu like “Periodic Table, Search Elements, Online help, Test Yourself , Help” option. We can access any option by clicking  on it. 
 ![image](https://user-images.githubusercontent.com/63312173/169695143-27a7a74f-e202-468e-8765-6ff939e170f7.png)
-Selecting “Periodic Table”: 
+<br>Selecting “Periodic Table”: 
 ![image](https://user-images.githubusercontent.com/63312173/169695154-11d66b02-fc6c-4822-bc16-ef90fdd744b5.png)
+
 Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window. 
-
- 
-
+![image](https://user-images.githubusercontent.com/63312173/169695223-3771a240-bc49-4010-88b7-2514ee6805a4.png)
 This window is totally interactive. The numbers above are group numbers. 
 Every elements are in the BOX shape. If we click any one of them. That shows the details about that element. 
 There is a back option to go back to main menu and an exit option to exit the program. 
