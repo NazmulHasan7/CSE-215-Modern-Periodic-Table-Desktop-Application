@@ -21,10 +21,11 @@ The main menu is  interactive. There are some sub menu like “Periodic Table, S
   <img src="https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png">
 </p>
 
-<br>Selecting “Periodic Table”: 
-![image](https://user-images.githubusercontent.com/63312173/169695417-390abb1b-9f93-4fc8-aa85-19d102d57312.png)
-
-Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window. 
+<br>Selecting “Periodic Table”<br> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63312173/169696123-ab6d7f8d-a23d-4f64-b46d-90fa63ebd646.png">
+</p>
+<br>Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window. 
 ![image](https://user-images.githubusercontent.com/63312173/169695223-3771a240-bc49-4010-88b7-2514ee6805a4.png)
 <br>This window is totally interactive. The numbers above are group numbers. 
 Every elements are in the BOX shape. If we click any one of them. That shows the details about that element. 
