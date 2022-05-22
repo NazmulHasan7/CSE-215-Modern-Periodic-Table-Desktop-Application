@@ -18,22 +18,22 @@ Modern Periodic Table with C programming is a console application written in Jav
 <b>Main menu :</b> 
 The main menu is  interactive. There are some sub menu like “Periodic Table, Search Elements, Online help, Test Yourself , Help” option. We can access any option by clicking it. 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png">
+  <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png">
 </p>
-<br>Selecting “Periodic Table”<br> 
+Selecting “Periodic Table”<br> 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63312173/169696123-ab6d7f8d-a23d-4f64-b46d-90fa63ebd646.png">
+  <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169696123-ab6d7f8d-a23d-4f64-b46d-90fa63ebd646.png">
 </p>
 Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window.<br> 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63312173/169696225-8abdeb87-8289-414f-badf-a835445a3c37.png">
+  <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169696225-8abdeb87-8289-414f-badf-a835445a3c37.png">
 </p>
 This window is totally interactive. The numbers above are group numbers. 
 Every elements are in the BOX shape. If we click any one of them. That shows the details about that element. 
 There is a back option to go back to main menu and an exit option to exit the program. 
 If we click the coolored boxes :
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63312173/169696299-93ed67e3-6e5e-4e38-99c2-ee6c84a53658.png">
+  <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169696299-93ed67e3-6e5e-4e38-99c2-ee6c84a53658.png">
 </p>
 
 By clicking the elements : Example O : 
