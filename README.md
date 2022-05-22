@@ -17,9 +17,10 @@ Modern Periodic Table with C programming is a console application written in Jav
 # Quick Overview of Features
 <b>Main menu :</b> 
 The main menu is  interactive. There are some sub menu like “Periodic Table, Search Elements, Online help, Test Yourself , Help” option. We can access any option by clicking it. 
-![image](https://user-images.githubusercontent.com/63312173/169695143-27a7a74f-e202-468e-8765-6ff939e170f7.png)
+![image](https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png)
+
 <br>Selecting “Periodic Table”: 
-![image](https://user-images.githubusercontent.com/63312173/169695154-11d66b02-fc6c-4822-bc16-ef90fdd744b5.png)
+![image](https://user-images.githubusercontent.com/63312173/169695417-390abb1b-9f93-4fc8-aa85-19d102d57312.png)
 
 Here I’ve selected the first option “Modern Periodic Table with details” , which opens an interactive periodic table in  a new window. 
 ![image](https://user-images.githubusercontent.com/63312173/169695223-3771a240-bc49-4010-88b7-2514ee6805a4.png)
