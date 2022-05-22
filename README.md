@@ -20,7 +20,7 @@ The main menu is  interactive. There are some sub menu like “Periodic Table, S
 <p align="center">
   <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png">
 </p>
-Selecting “Periodic Table”<br> 
+Selecting “Periodic Table”: Opens an interactive periodic table. Every button is clickable and shows details of elements <br> 
 <p align="center">
   <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169696123-ab6d7f8d-a23d-4f64-b46d-90fa63ebd646.png">
 </p>
@@ -35,10 +35,10 @@ If we click the coolored boxes :
 <p align="center">
   <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169696299-93ed67e3-6e5e-4e38-99c2-ee6c84a53658.png">
 </p>
-
 By clicking the elements : Example O : 
- 
-
+<p align="center">
+  <img width="600" heigth="400" src="https://user-images.githubusercontent.com/63312173/169696520-83a08ee0-69cc-4594-8233-17172e729743.png">
+</p> 
 If we click the print option. The information is printed on a text file and shows the laction of the file in the window : 
  
 
