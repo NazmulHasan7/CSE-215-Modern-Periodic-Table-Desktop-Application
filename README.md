@@ -1,20 +1,20 @@
-# CSE-215-Modern-Periodic-Table-Desktop-Application
-Modern Periodic Table with C programming is a console application written in Java programming language for CSE215 of North South University.
+# <i>CSE-215-Modern-Periodic-Table-Desktop-Application
+Modern Periodic Table with C programming is a console application written in Java programming language for CSE215 of North South University.</i>
 
 <p align="center">
-   NORTH SOUTH UNIVERSITY<br>
-   Department of Electrical and Computer Engineering
+   <i>NORTH SOUTH UNIVERSITY<br>
+   Department of Electrical and Computer Engineering</i>
 <p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63312173/169691760-a83acee4-4afd-424a-a34a-986a9d5e06c6.png">
 </p>
 <p align="center">
-   CSE 215 L<br>
+   <i>CSE 215 L<br>
    Programming Language II [Java] Lab<br>
-   Project Title: Interactive Modern Periodic Table<br>
+   Project Title: Interactive Modern Periodic Table</i><br>
  <p>
 
-# Quick Overview of Features 
+# <i>Quick Overview of Features </i>
 <p align="center">
   <img width="800" heigth="250" src="https://user-images.githubusercontent.com/63312173/169695397-1a687042-fd0a-465b-91ea-c6f2f8f08409.png">
 </p>
